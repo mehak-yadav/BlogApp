@@ -1,2 +1,5 @@
 # BlogApp
-A basic blogging platform built as a personal project.
+
+A simple blogging platform project currently under development. Code will be pushed shortly.
+
+Stay tuned!
